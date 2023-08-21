@@ -9,6 +9,7 @@ public class utility {
 		System.out.println("hii pradeep kumara");
 		System.out.println("hii pradeep kumara added");
 		System.out.println("hii pradeep kumara addede cfccccccc");
+		System.out.println("Nothing");
 
 	}
 
