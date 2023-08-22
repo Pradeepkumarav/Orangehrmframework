@@ -7,8 +7,10 @@ public class utility {
 		System.out.println("hii");
 		System.out.println("hii pradeep");
 		System.out.println("hii pradeep kumara");
+
 		System.out.println("hii");
 		System.out.println("kumara");
+
 
 
 	}
