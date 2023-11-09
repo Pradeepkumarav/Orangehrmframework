@@ -7,6 +7,10 @@ public class copied {
 		System.out.println("old modified");
               //hii
 
+		
+		
+		System.out.println("old modified");
+		System.out.println("old modified");
 	}
 
 }
